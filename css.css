@@ -1,0 +1,35 @@
+.ready{
+    background-color: gray;
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    margin: 0%;
+}
+.font1
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+.main-bg1{
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 8px;
+    
+}
+
+    .btn {
+        cursor: pointer;
+        border: 1px solid #3498db;
+        background-color: transparent;
+        height: 50px;
+        width: 200px;
+        color: #3498db;
+        font-size: 1.5em;
+        box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+       
+            
+            margin-right: 0;
+            margin-left:auto;
+            display:block;
+          
+}
